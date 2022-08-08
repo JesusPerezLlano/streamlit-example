@@ -1,3 +1,14 @@
 altair
 pandas
 streamlit
+logging
+queue
+threading
+time
+urllib.request
+collections
+pathlib
+typing
+av
+numpy
+pydub
