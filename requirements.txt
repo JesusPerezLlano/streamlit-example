@@ -9,6 +9,6 @@ urllib.request
 collections
 pathlib
 typing
-av
+av==9.2.0
 numpy
 pydub
